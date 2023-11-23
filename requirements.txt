@@ -1,0 +1,5 @@
+ccxt==<version_number>
+numpy==<version_number>
+pandas==<version_number>
+python-dotenv==<version_number>
+finta==<version_number>
